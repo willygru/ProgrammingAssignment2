@@ -5,7 +5,6 @@
 ## 2. Function cacheSolve computes the inverse of "matrix" returned 
 ## by makeCacheMatrix.
 
-
 ## Creates a "matrix" object that can cache its inverse
 makeCacheMatrix <- function(x = matrix()) {
         m <- NULL
